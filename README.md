@@ -19,7 +19,7 @@ Discord: `piyaz1854`
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyaz1854&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyaz1854&show_icons=true&hide_title=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyaz1854&layout=compact&hide_title=true&theme=default)
 
