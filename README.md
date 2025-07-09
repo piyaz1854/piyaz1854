@@ -1,4 +1,4 @@
-# Alikhan Azirbaev
+# Alikhan Azirbayev
 
 Python developer → Data Science  
 Focused on structured, scalable projects and continuous learning.
